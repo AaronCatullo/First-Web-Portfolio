@@ -1,0 +1,77 @@
+/*Structure*/
+
+header {
+  background-color: #9FB8AD;
+  padding: 10px;
+}
+
+main {
+  background-color: #CED0CE;
+  padding: 75px;
+}
+
+footer {
+  background-color: #9FB8AD;
+  padding: 5px;
+  text-align: center;
+  color: #EDF2FB
+}
+
+hr {
+  height: 3px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+/*Content*/
+
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 38px;
+  color: #EDF2FB
+}
+
+h2 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 31px;
+  color: #EDF2FB
+}
+
+h3 {
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+p{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+/*Lists-Organized and Unorganized*/
+
+ul {
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol{
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Anchor Elements Pseudo-Class*/
+
+a:link {color: blue}
+a:visited {color:blueviolet}
+a:hover {color: lightskyblue}
+a:active {color: maroon}
+
+/*--Map--*/
+
+iframe {
+  border: 1px solid black
+}
